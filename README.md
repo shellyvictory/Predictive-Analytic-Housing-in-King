@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - [Shelly Victory](https://www.dicoding.com/users/victorysl)
+# Laporan Proyek Machine Learning - [Shelly Victory](https://www.linkedin.com/in/shellyvictory/)
 
 ## Domain Proyek
 Peningkatan harga properti terutama di kota metropolitan mengakibatkan banyaknya masyarakat dengan pendapatan rendah mengalami kesulitan untuk memiliki tempat tinggal yang layak. Hal ini membuat bisnis properti merupakan hal yang amat menjanjikan namun juga rentan mengalami kerugian apabila tidak mampu memahami pasar. Pada model algoritma *machine learning* yang dikembangkan oleh [Hu et al.](https://www.sciencedirect.com/science/article/abs/pii/S0264837718316429) (2019), didapat fakta bahwa lingkungan perumahan mengakibatkan harga sewa yang lebih tinggi dibandingkan dengan lokasi. *Random forest regression* dan *extra-trees regression* merupakan 2 model terbaik dengan tingkat akurasi tinggi.
